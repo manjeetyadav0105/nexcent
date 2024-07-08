@@ -59,4 +59,4 @@ module.exports = {
   ],
 }; ```
 
-@made by Jyoti Saini
+@made by Manjeet
